@@ -9,7 +9,7 @@ A delightful Disney-inspired loader made with HTML and CSS. This loader is creat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/disney-loader.git
+   git clone https://github.com/abdul-1432/Disney-loader.git
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -32,6 +32,3 @@ This loader is inspired by the fantastic designs available on [codepen.io](https
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace "yourusername" with your actual GitHub username and customize the content as needed. You may also want to include a demo GIF or image in your repository to showcase the loader in action.
