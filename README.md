@@ -1,9 +1,6 @@
-Certainly! Below is a simple example of a GitHub README for a Disney loader made with HTML and CSS, inspired by codepen.io:
-
-```markdown
 # Disney Loader
 
-A delightful Disney-inspired loader made with HTML and CSS. This loader is created with the inspiration from the amazing designs on codepen.io.
+A delightful Disney-inspired loader made with HTML and CSS. This loader is created with inspiration from the amazing designs on codepen.io.
 
 ![Disney Loader Demo](demo.gif)
 
